@@ -28,6 +28,17 @@
                 "type": "font",
                 "name": "FONT_MASON_SERIF_REGULAR_18",
                 "file": "fonts/MasonSerReg.ttf"
+            },
+            {
+                "type": "bitmap",
+                "name": "IMAGE_ICON",
+                "file": "images/icon.png"
+            },
+            {
+                "type": "bitmap",
+                "name": "IMAGE_MENU_ICON",
+                "file": "images/menu_icon.png",
+                "menuIcon": true
             }
         ]
     },
