@@ -1,0 +1,43 @@
+{
+    "displayName": "Ancient Watch of Wisdom",
+    "uuid": "ce971091-b056-4aa2-b61d-c1d833dfcf4d",
+    "sdkVersion": "3",
+    "enableMultiJS": true,
+    "targetPlatforms": [
+        "basalt",
+        "chalk",
+        "diorite",
+        "emery",
+        "flint",
+        "gabbro"
+    ],
+    "watchapp": {
+        "watchface": false
+    },
+    "messageKeys": {
+        "request": 10000
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "font",
+                "name": "FONT_MASON_SAN_REGULAR_18",
+                "file": "fonts/MasonSanReg.ttf"
+            },
+            {
+                "type": "font",
+                "name": "FONT_MASON_SERIF_REGULAR_18",
+                "file": "fonts/MasonSerReg.ttf"
+            }
+        ]
+    },
+    "name": "Ancient Watch of Wisdom",
+    "shortName": "Ancient Watch of Wisdom",
+    "longName": "Ancient Watch of Wisdom",
+    "versionLabel": "1.0.0",
+    "companyName": "Ryan F",
+    "appKeys": {
+        "request": 10000
+    },
+    "capabilities": []
+}
