@@ -26,6 +26,11 @@
             },
             {
                 "type": "font",
+                "name": "FONT_MASON_SAN_REGULAR_24",
+                "file": "fonts/MasonSanReg.ttf"
+            },
+            {
+                "type": "font",
                 "name": "FONT_MASON_SERIF_REGULAR_18",
                 "file": "fonts/MasonSerReg.ttf"
             },
@@ -33,6 +38,16 @@
                 "type": "bitmap",
                 "name": "IMAGE_ICON",
                 "file": "images/icon.png"
+            },
+            {
+                "type": "bitmap",
+                "name": "IMAGE_ICON_EMERY",
+                "file": "images/icon_emery.png"
+            },
+            {
+                "type": "bitmap",
+                "name": "IMAGE_ICON_ROUND",
+                "file": "images/icon_round.png"
             },
             {
                 "type": "bitmap",

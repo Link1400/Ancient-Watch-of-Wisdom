@@ -6,7 +6,7 @@ const isSandbox = false;
 
 // Array with absolute file path strings
 const entryFilenames = ["_pkjs_shared_additions.js",
-"/home/ryan/Documents/VSCode/PebbleDev/Ancient Watch of Wisdom/src/pkjs/index.js"];
+"/home/ryan/Documents/pebble/Ancient-Watch-of-Wisdom/src/pkjs/index.js"];
 
 // folder path string
 const outputPath = "build";
@@ -18,10 +18,10 @@ const outputFilename = "pebble-js-app.js";
 const resolveRoots = ["/home/ryan/.pebble-sdk/SDKs/current/sdk-core/pebble/common/include",
 "/home/ryan/.pebble-sdk/SDKs/current/sdk-core/pebble/common/tools/webpack",
 "/home/ryan/.pebble-sdk/SDKs/current/node_modules",
-"/home/ryan/Documents/VSCode/PebbleDev/Ancient Watch of Wisdom/build/js"];
+"/home/ryan/Documents/pebble/Ancient-Watch-of-Wisdom/build/js"];
 
 // Object, { alias1: 'path1', ... }
-const resolveAliases = {"app_package.json": "/home/ryan/Documents/VSCode/PebbleDev/Ancient Watch of Wisdom/package.json"};
+const resolveAliases = {"app_package.json": "/home/ryan/Documents/pebble/Ancient-Watch-of-Wisdom/package.json"};
 
 // null or Object with key 'sourceMapFilename'
 const sourceMapConfig = {"sourceMapFilename": "pebble-js-app.js.map"};
